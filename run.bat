@@ -1,0 +1,2 @@
+2dd.exe
+PAUSE

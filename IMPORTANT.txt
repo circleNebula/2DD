@@ -1,0 +1,25 @@
+g++ -g main.cpp stb_image.c -o main.exe -lopengl32 -lglu32 -lfreeglut
+
+cube dimensions: 0.596
+
+cube blender dimensions: 1.191
+
+cone dimensions: 0.653
+
+
+Music: Wolf - Upbeat 8-bit Electronic
+
+Main Sprite 0x72
+
+
+
+
+Linux
+
+g++ -c main.cpp stb_image.c 
+
+g++ main.o stb_image.o -o alex -lsfml-graphics -lsfml-window -lsfml-system -lGL -lGLU -lsfml-audio
+
+
+Windows
+g++ main.cpp stb_image.c -o 2dd.exe -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio -lopengl32 -lglu32

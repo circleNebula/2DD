@@ -1,0 +1,7 @@
+Hi, to change the level play it and it will save your progress.
+
+On the IP, type 0 for offline
+
+C once, wait for noise then press space. Very fast, still need to fix that.
+
+Change the xml/saves.xml to skip to the level you type (10 is limit, 1 is first)

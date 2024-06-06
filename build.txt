@@ -1,0 +1,5 @@
+g++ -c main.cpp stb_image.c
+g++ main.o stb_image.o -o alex.exec -lsfml-graphics -lsfml-window -lsfml-system -lGL -lGLU
+
+
+
